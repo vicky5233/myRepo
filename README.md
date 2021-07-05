@@ -1,17 +1,20 @@
 # myRepo
 This is for tutorial purpose
 Test json
+'''json
 {
-	&quot;Catalogue&quot;: &quot;Employee Details&quot;,
-	&quot;Country&quot;: &quot;India&quot;,
-	&quot;Value&quot;: [{
-		&quot;EmpId&quot;: &quot;vicky&quot;,
-		&quot;Name&quot;: &quot;vicky@gmail.com&quot;,
-		&quot;Organization&quot;: &quot;Kolkata&quot;,
-		&quot;RegionCode&quot;: &quot;vicky@gmail.com&quot;,
-		&quot;Location&quot;: &quot;100K&quot;,
-		&quot;Mobile&quot;: &quot;vicky@gmail.com&quot;,
-		&quot;Email&quot;: &quot;Mumbai&quot;
-
-	}]
+   "Catalogue": "Employee Details",
+   "Country": "India",
+   "Value": [
+      {
+         "EmpId": "vicky",
+         "Name": "vicky@gmail.com",
+         "Organization": "Kolkata",
+         "RegionCode": "vicky@gmail.com",
+         "Location": "100K",
+         "Mobile": "vicky@gmail.com",
+         "Email": "Mumbai"
+      }
+   ]
 }
+'''
